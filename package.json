@@ -1,0 +1,14 @@
+{
+  "name": "calage",
+  "version": "1.0.0",
+  "description": "Take a input of file. File containing name and DOB. Calculate Age.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
